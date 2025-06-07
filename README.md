@@ -6,9 +6,14 @@ A tool designed to automatically discover, analyze, and fix security vulnerabili
 
 ✨ Features:
 	•	Scans code for known and potential vulnerabilities
+ 
 	•	Provides detailed reports with severity levels
+ 
 	•	Suggests or applies fixes where possible
+ 
 	•	Supports Python, Shell Script
+ 
 	•	Designed for easy CI/CD integration
+ 
 
 🚀 Ideal for: Developers, security engineers, DevSecOps teams
